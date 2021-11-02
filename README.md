@@ -1,5 +1,6 @@
 # interviews
 
-Data Structures - Just an arrangement of data
+Data Stuctures - https://slides.com/bgando/intro-to-ds-1
+                 http://slides.com/bgando/intro-graph-trees
 
-Slides - https://slides.com/bgando/intro-to-ds-1
+Algorithms - https://slides.com/bgando/intro-to-algorithms/
