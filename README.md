@@ -1,6 +1,6 @@
 # interviews
 
-Data Stuctures - https://slides.com/bgando/intro-to-ds-1
+Data Stuctures - https://slides.com/bgando/intro-to-ds-1,
 http://slides.com/bgando/intro-graph-trees
                  
 
