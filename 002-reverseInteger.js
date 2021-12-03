@@ -28,4 +28,4 @@ const reverse = function(x){
     return revNum;
 }
 
-console.log(reverse(1233534))';
+console.log(reverse(1233534));
