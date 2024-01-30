@@ -1,3 +1,5 @@
+# Check if a given number is prime.
+
 import math
 number = input("Provide a number - ")
 yourInput = int(number);

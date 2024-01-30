@@ -1,3 +1,5 @@
+# How do you determine if a string is a palindrome?
+
 def pallindromeCheck1(str):
     for i in range(len(str) // 2):
         if str[i] != str[len(str)-1-i]:

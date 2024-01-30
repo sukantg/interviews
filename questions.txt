@@ -1,19 +1,11 @@
-How do you reverse a string?
-How do you determine if a string is a palindrome?
-Find number of occurrences of a string character in a string.
-Find if two strings are anagrams.
-How do you calculate number of vowels and consonants in a string?
-How do you remove all occurrences of a character from a string?
-How do you sum all elements in an array?
 How do you get matching elements in an integer array?
-How do you reverse an array?
 Find the second largest number in an array.
 Find the kth largest element in an unsorted array
 Find the contiguous subarray with the largest sum
 Find a way to swap two numbers without a third variable.
 Print a Fibonacci series using recursion.
 How do you find the factorial of an integer?
-Check if a given number is prime.
+
 
 
 
